@@ -8,7 +8,7 @@
 
 
 ### De Referência
-* Basicamente, isso é o mesmo que quando foi desenvolvido (por volta dos anos 2000), mas a codificação de caracteres foi alterada para UTF-8 e alguns comentários (poemas sombrios históricos?) foram deletados. Indentação e utras coisas são os mesmos que antigamente, então algumas partes podem ser difíceis de ler.
+* Basicamente, isso é o mesmo que quando foi desenvolvido (por volta dos anos 2000), mas a codificação de caracteres foi alterada para UTF-8 e alguns comentários (poemas sombrios históricos?) foram deletados. Indentação e outras coisas são as mesmos que antigamente, então algumas partes podem ser difíceis de ler.
 * A mistura de cores 8/16 bit, reprodução MIDI e evitar cálculos de ponto flutuante provavelmente são alguns pontos nostálgicos.
 * Existem vários nomes de arquivos no formato 8.3 pois parte do código foi escrito na época que PC-98 era usado.
 * O código relacionado com expansão de recursos de arquivos não está incluso neste repositório devido a vários motivos.

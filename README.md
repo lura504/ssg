@@ -1,4 +1,4 @@
-#pt-BR
+# pt-BR
 ## Shuusou Gyoku
 
 ### O que é?
@@ -31,7 +31,7 @@ O código à seguir será adicionado assim que for encontrado.
 ### Licensa
 * [MIT](LICENSE)
 ---
-#jp
+# jp
 ## 秋霜玉
 
 ### これは何？

@@ -30,7 +30,7 @@ O código à seguir será adicionado assim que for encontrado.
 
 ## Licensa
 * [MIT](LICENSE)
-
+---
 jp
 # 秋霜玉
 

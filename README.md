@@ -1,3 +1,37 @@
+pt-BR
+# Shuusou Gyoku
+
+## O que é?
+* Este é o código fonte para Shuusou Gyoku, o primeiro lançamento do **Nishikata Project**;
+* Ele pode compilar, mas nem todo código fonte está incluso, portanto ele não pode ser linkado;
+* Imagens, músicas, efeitos sonoros, scripts e outros recursos não inclusos.
+
+
+## De Referência
+* Basicamente, isso é o mesmo que quando foi desenvolvido (por volta dos anos 2000), mas a codificação de caracteres foi alterada para UTF-8 e alguns comentários (poemas sombrios históricos?) foram deletados. Indentação e utras coisas são os mesmos que antigamente, então algumas partes podem ser difíceis de ler.
+* A mistura de cores 8/16 bit, reprodução MIDI e evitar cálculos de ponto flutuante provavelmente são alguns pontos nostálgicos.
+* Existem vários nomes de arquivos no formato 8.3 pois parte do código foi escrito na época que PC-98 era usado.
+* O código relacionado com expansão de recursos de arquivos não está incluso neste repositório devido a vários motivos.
+
+
+## Estrutura de Pastas
+* /**MAIN**		: Shuusou Gyoku WinMain
+* /**GIAN07**		: função main() de Shuusou Gyoku 
+* /**DirectXUTYs**	: DirectX, Reprodutor MIDI, funções matemáticas de processamento comuns, etc…
+* /**MapEdit2**		: Editor de Mapa
+* /**ECLC**		: Compilador do script ECL(para controle de inimigos)
+* /**SCLC**		: Compilador do script SCL(para posicionamento de inimigos)
+
+
+## Código fonte que pode ter sido perdido
+O código à seguir será adicionado assim que for encontrado.
+* Arquivador de Recursos
+
+
+## Licensa
+* [MIT](LICENSE)
+
+jp
 # 秋霜玉
 
 ## これは何？
